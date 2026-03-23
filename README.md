@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a Leila Victoria (Garota da TI)
+# 👋 Olá! Eu sou a Leila Borges (Garota da TI)
 
 ### 👩‍💻 Sobre Mim
 Estudante de **Sistemas de Informação na UNIP** e entusiasta de **Cibersegurança e QA**. Unindo a base técnica da ETEC com o ensino superior para criar soluções seguras e eficientes.
