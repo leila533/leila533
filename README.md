@@ -4,8 +4,8 @@
 Estudante de **Sistemas de Informação na UNIP** e entusiasta de **Cibersegurança e QA**. Unindo a base técnica da ETEC com o ensino superior para criar soluções seguras e eficientes.
 
 * 🛡️ **Foco atual:** Automação de segurança e análise de logs com Python.
-* 🚀 **Objetivo:** Atuar como Analista de Segurança Júnior ou QA Tester.
-* 📚 **Aprendendo:** Testes de invasão (Pentest), GRC e Qualidade de Software.
+* 🚀 **Objetivo:** Buscando Estágio em QA (Testes) ou Desenvolvimento de Software
+* 📚 **Aprendendo:** Testes de invasão (Pentest), GRC e Qualidade de Software e LGPD.
 
 ---
 
